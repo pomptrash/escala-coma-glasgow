@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+body {
+    background: #A7C7E7 url(imgs/img-background-2.jpg) no-repeat fixed center center / cover;
+    color: #fff;
+    height: 100vh;
+}
+
+.container {
+    max-width: 800px;
+}
+
+main {
+    background-color: #00000061;
+}
+
+form {
+    width: 100vw;
+    max-width: 40rem;
+}
+
+button {
+    background-color: #A7C7E7 !important;
+}
+
+.sessaoRelatorio {
+    background-color: #000000a2;
+    display: none;
+}
+
+.grave {
+    
+}
